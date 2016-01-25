@@ -8,7 +8,7 @@ import (
 )
 
 var (
-	ApiURL    = "https://insight.bitpay.com/api"
+	ApiURL    = "https://blockexplorer.com/api"
 	UserAgent = "insight-go"
 )
 
